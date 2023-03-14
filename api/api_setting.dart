@@ -1,0 +1,14 @@
+const String _baseUrl = 'https://palmail.betweenltd.com/api/';
+const String loginURL = '${_baseUrl}login';
+const String registerURL = '${_baseUrl}register';
+const String userURL = '${_baseUrl}user';
+const String usersURL = '${_baseUrl}users/';
+const String mailsURL = '${_baseUrl}mails';
+const String sendersURL = '${_baseUrl}senders';
+const String categoriesURL = '${_baseUrl}categories';
+const String rolesURL = '${_baseUrl}roles';
+const String searchURL = '${_baseUrl}search';
+const String statusesURL = '${_baseUrl}statuses';
+const String tagsURL = '${_baseUrl}tags';
+const String logoutURL = '${_baseUrl}logout';
+const String updateURL = '${userURL}update';
